@@ -4,4 +4,6 @@
 
 Hola a todos, soy Dunston Madariaga, un estudiante aspirando a ser un Desarrollador Web FrontEnd.
 
-<iframe src="https://giphy.com/embed/xUPGcDySAkR9khOqIM" width="200" height="200" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/xUPGcDySAkR9khOqIM">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM28xbDV1a2g2eHJsZGxxbGl1dmk4YTdrcTA0OXU4d3NtemdzbWsyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.webp" width="200" />
+</div>
